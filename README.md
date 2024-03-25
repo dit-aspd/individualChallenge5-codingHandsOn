@@ -21,3 +21,4 @@ If you just want to play the game without going through the code, you can downlo
 
 Feel free to explore the source code to understand how the game works or make modifications as you like.
 
+Aditya Syawal Pratama (CC BY 4.0)
