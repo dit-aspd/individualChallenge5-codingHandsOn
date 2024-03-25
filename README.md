@@ -18,5 +18,6 @@ If you just want to play the game without going through the code, you can downlo
 4. Enjoy playing the game!
 
 Feel free to explore the source code to understand how the game works or make modifications as you like.
+##
 
-## Aditya Syawal Pratama (CC BY 4.0)
+Aditya Syawal Pratama (CC BY 4.0)
