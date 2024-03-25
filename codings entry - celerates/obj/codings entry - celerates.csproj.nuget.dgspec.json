@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\College\\Celerates\\Programing\\Individual Challenge #5 - Coding Hands On\\codings entry - celerates\\codings entry - celerates.csproj": {}
+  },
+  "projects": {
+    "E:\\College\\Celerates\\Programing\\Individual Challenge #5 - Coding Hands On\\codings entry - celerates\\codings entry - celerates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\College\\Celerates\\Programing\\Individual Challenge #5 - Coding Hands On\\codings entry - celerates\\codings entry - celerates.csproj",
+        "projectName": "codings entry - celerates",
+        "projectPath": "E:\\College\\Celerates\\Programing\\Individual Challenge #5 - Coding Hands On\\codings entry - celerates\\codings entry - celerates.csproj",
+        "packagesPath": "C:\\Users\\Aditya Syawal\\.nuget\\packages\\",
+        "outputPath": "E:\\College\\Celerates\\Programing\\Individual Challenge #5 - Coding Hands On\\codings entry - celerates\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aditya Syawal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

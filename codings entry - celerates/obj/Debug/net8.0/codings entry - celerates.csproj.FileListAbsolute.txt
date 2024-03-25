@@ -1,0 +1,14 @@
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\bin\Debug\net8.0\codings entry - celerates.exe
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\bin\Debug\net8.0\codings entry - celerates.deps.json
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\bin\Debug\net8.0\codings entry - celerates.runtimeconfig.json
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\bin\Debug\net8.0\codings entry - celerates.dll
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\bin\Debug\net8.0\codings entry - celerates.pdb
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.AssemblyInfoInputs.cache
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.AssemblyInfo.cs
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.csproj.CoreCompileInputs.cache
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.dll
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\refint\codings entry - celerates.dll
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.pdb
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.genruntimeconfig.cache
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\ref\codings entry - celerates.dll
