@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codings entry - celerates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad42f4912c96b8b59e893457405e6243f88bc481")]
 [assembly: System.Reflection.AssemblyProductAttribute("codings entry - celerates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codings entry - celerates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

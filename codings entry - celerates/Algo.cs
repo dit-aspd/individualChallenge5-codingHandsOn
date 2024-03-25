@@ -1,11 +1,9 @@
 using System;
 
-namespace gameNamespace
-{
     public class Algo
     {
-        private int num;
-        private int attempts;
+        int num;
+        int attempts;
 
         public void newGame()
         {
@@ -36,4 +34,3 @@ namespace gameNamespace
             }
         }
     }
-}

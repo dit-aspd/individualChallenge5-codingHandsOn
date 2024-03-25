@@ -12,3 +12,4 @@ E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\coding
 E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.pdb
 E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.genruntimeconfig.cache
 E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\ref\codings entry - celerates.dll
+E:\College\Celerates\Programing\Individual Challenge #5 - Coding Hands On\codings entry - celerates\obj\Debug\net8.0\codings entry - celerates.sourcelink.json
