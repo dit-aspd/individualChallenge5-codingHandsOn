@@ -6,23 +6,27 @@ using System;
 
 public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         int i;
 
         DateTime startTime = DateTime.Now;
-
         newGame game = new newGame();
         
-        System.Console.WriteLine("Hi traveler, only between 1-10, can you guess my favorite number?\n");
+        playerData player = new playerData("Traveler", 20);
+        System.Console.Write("One welcome thou, ");
+        player.callMyName();
+        System.Console.WriteLine(".");
+        System.Console.WriteLine("Thou looks like " + player.Age + " years old human who seems hungry for a challenge.\nOne hereby challenge thou."); 
+        System.Console.WriteLine("Only between 1-50, can thou guess One favorite number?\n");
 
         while(true)
         {
-            System.Console.WriteLine("Your guess [1-10]: ");
+            System.Console.Write("Your guess [1-50]: ");
 
-            if(!int.TryParse(Console.ReadLine(), out i) || i < 1 || i > 10)
+            if(!int.TryParse(Console.ReadLine(), out i) || i < 1 || i > 50)
             {
-                System.Console.WriteLine("Bro, I just said only between 1-10.");
+                System.Console.WriteLine("Foolish human, One just said only between 1-50.");
                 continue;
             }
 
@@ -34,11 +38,27 @@ public class Program
         TimeSpan duration = endTime - startTime;
         double seconds = Math.Round(duration.TotalSeconds, 2);
         System.Console.WriteLine($"Total time spent: {seconds} seconds\n");
-        System.Console.WriteLine("Aditya Syawal Pratama (CC BY 4.0)");
+        System.Console.WriteLine("Dev by: Aditya Syawal Pratama (CC BY 4.0)");
         Console.ReadKey();
     }
 }
 
+public class playerData {
+    
+    public string Name;
+    public int Age;
+
+    public playerData(string name, int age)
+    {
+        this.Name = name;
+        this.Age = age;
+    }
+
+    public void callMyName()
+    {
+        System.Console.Write(Name);
+    }
+}
 public class newGame
 {
     int num;
@@ -47,7 +67,7 @@ public class newGame
     public newGame()
     {
         Random random = new Random();
-        num = random.Next(1, 11);
+        num = random.Next(1, 51);
         attempts = 0;
     }
 
@@ -68,7 +88,7 @@ public class newGame
 
         } else 
         {
-            System.Console.WriteLine($"Are you just lucky? Yes, my favorite number is {num}.\nTotal attempts: {attempts}");
+            System.Console.WriteLine($"\nAre thou just lucky? Yes, One favorite number is {num}.\n\nTotal attempts: {attempts}");
             return true;
         }
     }
