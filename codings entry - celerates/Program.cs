@@ -18,15 +18,15 @@ public class Program
         player.callMyName();
         System.Console.WriteLine(".");
         System.Console.WriteLine("Thou looks like " + player.Age + " years old human who seems hungry for a challenge.\nOne hereby challenge thou."); 
-        System.Console.WriteLine("Only between 1-50, can thou guess One favorite number?\n");
+        System.Console.WriteLine("Only between 1-100, can thou guess One favorite number?\n");
 
         while(true)
         {
-            System.Console.Write("Your guess [1-50]: ");
+            System.Console.Write("Your guess [1-100]: ");
 
-            if(!int.TryParse(Console.ReadLine(), out i) || i < 1 || i > 50)
+            if(!int.TryParse(Console.ReadLine(), out i) || i < 1 || i > 100)
             {
-                System.Console.WriteLine("Foolish human, One just said only between 1-50.");
+                System.Console.WriteLine("Foolish human, One just said only between 1-100.");
                 continue;
             }
 
@@ -67,7 +67,7 @@ public class newGame
     public newGame()
     {
         Random random = new Random();
-        num = random.Next(1, 51);
+        num = random.Next(1, 101);
         attempts = 0;
     }
 
