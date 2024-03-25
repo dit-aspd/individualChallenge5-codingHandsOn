@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Aditya Syawal Pratama - 2102057
+// Celerates - GDD
+// Individual Challenge #5 - Coding Hands On
+
+using System;
 
 public class Program
 {
@@ -29,8 +33,8 @@ public class Program
         DateTime endTime = DateTime.Now;
         TimeSpan duration = endTime - startTime;
         double seconds = Math.Round(duration.TotalSeconds, 2);
-        System.Console.WriteLine($"Total time spent: {seconds} seconds");
-    
+        System.Console.WriteLine($"Total time spent: {seconds} seconds\n");
+        System.Console.WriteLine("Aditya Syawal Pratama (CC BY 4.0)");
         Console.ReadKey();
     }
 }
