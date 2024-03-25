@@ -1,10 +1,22 @@
 ﻿using System;
 
-public class Program
-{
-    static void Main(string[] args)
-    {
-        System.Console.WriteLine("Hi traveler, I've picked a number between 1-10. Can you guess the secret number?\n\n");
-        System.Console.WriteLine("Hi traveler, I've picked a number between 1-10. Can you guess the secret number?\n\n");
+public class Program{
+    static void Main(string[] args){
+        myFavoriteNumber game = new myFavoriteNumber();
+        
+        System.Console.WriteLine("Hi traveler, only between 1-10, can you guess my favorite number?\n");
+
+        game.newGame();
+
+        while(true){
+            System.Console.WriteLine("You guess [1-10]: ");
+
+            if(i < 1 || i > 10){
+                System.Console.WriteLine("Bro, I just said only between 1-10.");
+                continue;
+            }
+
+            if (game.Guess(i));
+        }
     }
 }
